@@ -3,4 +3,4 @@ xrandr --addmode VGA-1 "1368x768_60.00"
 xrandr --output VGA-1 --mode 1368x768_60.00
 
 sudo apt update
-sudo apt install bodhi-chromium
+sudo apt install bodhi-chromium evince htop
