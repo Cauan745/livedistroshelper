@@ -3,4 +3,8 @@ xrandr --addmode VGA-1 "1368x768_60.00"
 xrandr --output VGA-1 --mode 1368x768_60.00
 
 sudo apt update
-sudo apt install bodhi-chromium evince htop
+sudo apt install bodhi-chromium evince htop lxappearance
+
+mkdir ~/.icons
+cp -r ./WhiteSur-cursors ~/.icons/
+lxappearance
