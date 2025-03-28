@@ -8,3 +8,4 @@ sudo apt install bodhi-chromium evince htop lxappearance
 mkdir ~/.icons
 cp -r ./WhiteSur-cursors ~/.icons/
 lxappearance
+chromium "https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?pli=1"
