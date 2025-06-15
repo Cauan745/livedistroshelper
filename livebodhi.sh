@@ -11,3 +11,5 @@ sudo apt update && sudo apt install librewolf evince htop lxappearance -y
 mkdir ~/.icons
 cp -r ./WhiteSur-cursors ~/.icons/
 lxappearance
+
+librewolf https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/
