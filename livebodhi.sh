@@ -6,7 +6,7 @@ sudo apt update && sudo apt install extrepo -y
 
 sudo extrepo enable librewolf
 
-sudo apt update && sudo apt install librewolf evince htop lxappearance -y
+sudo apt update && sudo apt install librewolf evince htop lxappearance flameshot -y
 
 mkdir ~/.icons
 cp -r ./WhiteSur-cursors ~/.icons/
