@@ -7,6 +7,7 @@ sudo apt update && sudo apt install extrepo -y
 sudo extrepo enable librewolf
 
 sudo apt update && sudo apt install librewolf evince htop lxappearance flameshot xfce4-terminal -y
+mkdir ~/.config/xfce4 ~/.config/xfce4/terminal/
 cp terminalrc ~/.config/xfce4/terminal/
 
 mkdir ~/.icons
