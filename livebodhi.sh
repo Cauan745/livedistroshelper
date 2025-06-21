@@ -23,4 +23,4 @@ sudo cp -r nvim-linux-x86_64/share/* /usr/share/
 
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
 
-librewolf https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/ https://addons.mozilla.org/en-US/firefox/addon/kanagawa-theme/ https://addons.mozilla.org/en-US/firefox/addon/darkreader/
+librewolf about:preferences https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/ https://addons.mozilla.org/en-US/firefox/addon/kanagawa-theme/ https://addons.mozilla.org/en-US/firefox/addon/darkreader/
